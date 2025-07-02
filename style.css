@@ -1,16 +1,30 @@
-body {
-	text-align:center;
-	margin-left:auto;
-	margin-right:auto;
-	padding-left:3%;
-	padding-right:3%;
+body{
+  padding: 25px;
+  background-color: #F9F3EF;
 }
 
-h2, dl ,ol , ul  {
-	text-align:left;
+.title {
+	color: white;
+	font-family:Verdana ;
+	align=center;
+	background-color:#1B3C53;
 }
 
-dt{
-	text-decoration-style: bold;
-	text-indent: 20px;
+.container-fluid{
+  text-align: jusstify;
+  color: #1B3C53;
+}
+
+
+.line{
+  background-color:#1B3C53;
+}
+
+.dot{
+  color: #1B3C53;
+}
+
+.h1, h2, h5{
+  color: #1B3C53;
+  font-family:Verdana ;
 }
